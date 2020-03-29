@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: src=(WM2017824 - コピー(2).jpg");
+  background-image: WM2017824 - コピー(2).jpg;
   background-size: cover;
  
  
@@ -31,7 +31,9 @@ a {
   text-align: center;
 }
 
-
+h1 {
+   text-align: center;
+}
 
 
 
